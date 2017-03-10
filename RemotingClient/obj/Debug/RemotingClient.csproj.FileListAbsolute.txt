@@ -1,0 +1,18 @@
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\bin\Debug\RemotingClient.exe.config
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\bin\Debug\RemotingClient.exe
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\bin\Debug\RemotingClient.pdb
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\bin\Debug\RemotingObjects.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\bin\Debug\RemotingObjects.pdb
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\obj\Debug\RemotingClient.exe
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingClient\obj\Debug\RemotingClient.pdb
+D:\Remoting\RemotingClient\bin\Debug\RemotingClient.exe.config
+D:\Remoting\RemotingClient\bin\Debug\RemotingClient.exe
+D:\Remoting\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\Remoting\RemotingClient\bin\Debug\RemotingObjects.dll
+D:\Remoting\RemotingClient\bin\Debug\RemotingServer.exe
+D:\Remoting\RemotingClient\bin\Debug\RemotingObjects.pdb
+D:\Remoting\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+D:\Remoting\RemotingClient\obj\Debug\RemotingClient.exe
+D:\Remoting\RemotingClient\obj\Debug\RemotingClient.pdb
+D:\Remoting\RemotingClient\bin\Debug\RemotingServer.pdb

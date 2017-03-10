@@ -1,0 +1,8 @@
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingObjects\bin\Debug\RemotingObjects.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingObjects\bin\Debug\RemotingObjects.pdb
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingObjects\obj\Debug\RemotingObjects.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\Remoting\RemotingObjects\obj\Debug\RemotingObjects.pdb
+D:\Remoting\RemotingObjects\bin\Debug\RemotingObjects.dll
+D:\Remoting\RemotingObjects\bin\Debug\RemotingObjects.pdb
+D:\Remoting\RemotingObjects\obj\Debug\RemotingObjects.dll
+D:\Remoting\RemotingObjects\obj\Debug\RemotingObjects.pdb
